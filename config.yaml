@@ -1,2 +1,2 @@
-path: "idan_model2.joblib
+path: "idan_model2.joblib"
 features: ['PPE' , 'DFA']
